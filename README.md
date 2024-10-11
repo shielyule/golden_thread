@@ -1,2 +1,2 @@
-# Webcafe_FireSafety
+# webcafe_firesafety
 General Fire Safety app
